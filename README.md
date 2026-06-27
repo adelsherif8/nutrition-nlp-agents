@@ -7,7 +7,7 @@
 ![Gradio](https://img.shields.io/badge/UI-Gradio-FF7C00?logo=gradio&logoColor=white)
 ![NLP](https://img.shields.io/badge/Domain-Multi--Agent%20NLP-blue)
 
-**▶️ Live demo:** _Gradio app (`app.py`) — deployable to Hugging Face Spaces; see [Getting Started](#getting-started)_
+**▶️ Live demo:** _paste your Space URL here after deploy_ · 🚀 **Deploy guide:** [DEPLOY.md](./DEPLOY.md) (Hugging Face Spaces, free)
 
 ---
 
